@@ -23,12 +23,18 @@ Game Boy Advance	R$ 850,00
 Nintendo 3DS	R$ 999,00
 Estrutura dos arquivos
 GameShow/
+
 │
+
 ├── index.html
 │
+
 └── imagens/
+
     ├── anuncio.png
+    
     └── preco.png
+    
 Como executar
 Baixe ou clone o projeto.
 Abra a pasta no VS Code.
