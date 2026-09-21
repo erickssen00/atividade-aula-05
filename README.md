@@ -22,6 +22,7 @@ Atari 2600	R$ 350,00
 Game Boy Advance	R$ 850,00
 Nintendo 3DS	R$ 999,00
 Estrutura dos arquivos
+
 GameShow/
 
 │
